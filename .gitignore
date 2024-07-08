@@ -1,3 +1,2 @@
-/bin-int/
-**.vcxproj**
-/bin/
+Makefile
+*.make
